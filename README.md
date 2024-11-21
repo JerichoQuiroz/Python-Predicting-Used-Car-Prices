@@ -8,6 +8,6 @@
 
 - **Evaluation:** Measured and evaluated model performance using Mape
 
-- **Visualisation:** Utilized Python libraries such as Matplotlib and Seaborn for data visualization.
+- **Visualisation:** Utilised Python libraries such as Matplotlib and Seaborn for data visualization.
 
 - **Data Manipulation:** Proficiently handled and transformed data using Pandas and NumPy.
