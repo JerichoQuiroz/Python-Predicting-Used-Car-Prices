@@ -1,6 +1,6 @@
 **Python Machine Learning Model Development:** Created a regression predictor to correctly predict used car prices based on ~86 features.
 
-- **Data Preprocessing:** Applied dummy encoding for categorical variables and ordinal encoding for features with large value range. Cleaned, transformed and imputed missing data to prepare for model training.
+- **Data Preprocessing:** Applied dummy encoding for categorical variables and ordinal encoding for features that had a large range of values. Cleaned, transformed and imputed missing data to prepare for model training.
 
 - **Feature Engineering:** Created new features based on existing ones to improve model accuracy.
 
